@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm from Colombia 🇨🇴<br><br>- 🔭 I’m working as a Senior Python Developer<br>- 📚 I'm currently learning advanced AWS services and Kubernetes<br>- ⚡ In my free time I enjoy contributing to open source projects and exploring new technologies</p>
+<p align="left">I'm from Colombia 🏘️<br><br>- 🔭 I’m working as a Senior Python Developer<br>- 📚 I'm currently learning advanced AWS services and Kubernetes<br>- ⚡ In my free time I enjoy contributing to open source projects and exploring new technologies</p>
 
 ###
 
