@@ -58,12 +58,12 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tuusuario&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=mikhers&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
-<div align="center">
- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/Qn74oPyaKYBpVWdA7t" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/getmanfred-backend-developer-engineer-Qn74oPyaKYBpVWdA7t">via GIPHY</a></p>
-</div>
+ <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
+   <iframe src="https://giphy.com/embed/Qn74oPyaKYBpVWdA7t" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+ </div>
 
 ###
