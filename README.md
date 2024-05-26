@@ -9,10 +9,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://miguel-moreno.carrd.co/">
-    <i class="fa fa-file" aria-hidden="true"></i>
-  </a>
-  <a href="https://twitter.com/tuusuario">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=CV&logo=google-drive&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cv logo"  />
   </a>
 </div>
 
@@ -32,7 +29,7 @@
 
 ###
 
-<p align="left">I'm from Colombia <br><br>- 🔭 I’m working as a Senior Python Developer<br>- 📚 I'm currently learning advanced AWS services and Kubernetes<br>- ⚡ In my free time I enjoy contributing to open source projects and exploring new technologies</p>
+<p align="left">I'm from Colombia 🇨🇴<br><br>- 🔭 I’m working as a Senior Python Developer<br>- 📚 I'm currently learning advanced AWS services and Kubernetes<br>- ⚡ In my free time I enjoy contributing to open source projects and exploring new technologies</p>
 
 ###
 
